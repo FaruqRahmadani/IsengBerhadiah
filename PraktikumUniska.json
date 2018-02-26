@@ -1,9 +1,9 @@
 {
   "state" : 1,
   "message" : "@pesan",
-  "Author" : {
+  "Author" : [
     {"data" : "Faruq Rahmadani"},
     {"data" : "Faruq Rahmadani"},
-    {"data" : "Faruq Rahmadani"},
-  }
+    {"data" : "Faruq Rahmadani"}
+  ]
 }
